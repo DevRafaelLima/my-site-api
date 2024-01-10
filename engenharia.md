@@ -11,6 +11,12 @@
     <li><strong>AUTORIZAÇÃO</strong>
         <ul>
             <li>O usuário deve está autorizado.</li>
+            <li>Forma flexível de autorização.</li>
+        </ul>
+    </li>
+    <li><strong>RASTREABILIDADE</strong>
+        <ul>
+            <li>Deve-se guarda log das ações relevanes do sistema pra uma rastrabilidade do sistema.</li>
         </ul>
     </li>
     <li><strong>PÁGINA INICIAL</strong>
@@ -81,3 +87,7 @@
         </ul>
     </li>
 </ol>
+
+## Artefatos
+### Diagrama ER de banco de dados (pé de galinha)
+![Diagrama ER](Artefatos/Diagrama%20ER%20de%20banco%20de%20dados%20(pé%20de%20galinha).png)
